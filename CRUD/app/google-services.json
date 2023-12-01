@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356142399932",
+    "project_id": "crm1-912cb",
+    "storage_bucket": "crm1-912cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356142399932:android:d1e3016699c4e0ca186bb9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyFdIp7cdeJ8g2HGehbWS-lBBpQYEPJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
